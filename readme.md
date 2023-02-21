@@ -37,11 +37,11 @@ docker-compose exec apollo-graphql-server npx prisma migrate dev --name init
 
 - For now, the `watch` command doesn't watch for any changes in .graphql files. Should find a way to include them.
 
-- Redunduncy on the types definition: they are both in schema.graphql and schema.prisma. Should find a way to avoid the duplicate.
+- Redundancy on the types definition: they are both in schema.graphql and schema.prisma. Should find a way to avoid the duplicate.
   
 - Since GraphQL does not support a Date type, we had to build our own. It could be optimized according the Frontend needs
   
-- The date format returned by the database is a timestamp. Could be updated according the Frontend need
+- The date format returned by the database is a timestamp (ex: 1640995200000). Could be updated according the Frontend need
   
 - For more security, Replace the actual ID system with some UUID
   

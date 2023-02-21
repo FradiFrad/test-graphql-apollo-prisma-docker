@@ -10,7 +10,7 @@ type Query {
 input PizzasInput {
   names: [PizzaName]
   ids: [ID]
-  ingredientNames: [IngredientName]
+  # ingredientNames: [IngredientName] TODO: add ingredientName to add filter bu ingredients
 }
 
   input OrdersInput {
