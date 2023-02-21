@@ -6,31 +6,12 @@
   - if necessary, edit `DATABASE_URL` value
   - /!\ WARNING: do not put quotes on your value, to avoid any Prisma error
 
-- Be sure your node version is 14.17.X or 16.X or 18.X
+- Launch the app (if you want the logs, remove `-d` option)
+- Initialize the database and seed it
 
 ```cli
-node -v
-```
-
-You can use nvm to change your version.
-
-
-- Launch the app (if you want the logs, remove `-d` option):
-
-```cli
+cp .env.dist .env
 docker-compose up -d
-```
-
-- Install:
-NB: incompatibility issue with prisma if this command is played outside the container
-
-```cli
-docker-compose exec apollo-graphql-server npm i
-```
-
-- Initialize the database and seed it:
-
-```cli
 docker-compose exec apollo-graphql-server npx prisma migrate dev --name init 
 ```
 
@@ -44,11 +25,13 @@ docker-compose exec apollo-graphql-server npx prisma migrate dev --name init
   
 - Difficulty to understand the assignments features (for instance: "The front-end team needs an API that will return the data in total for the selected period and in increments of weeks to display the data in graphs that displays the number per week.")
   
-- The queries filters are incomplete
+- The queries filters are incomplete, by lack of time
+
+- The output data is too permissive, by lack of time. Should type each output according Frontend needs.
   
 - The error handling is minimal and should be improved
   
-- No unit and integration tests for lack of time
+- No unit and integration tests by lack of time
   
 - If this POC were to be used in production, a parser of .csv should be added to the project to automate the data import.
 

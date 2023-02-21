@@ -8,7 +8,7 @@
   "scripts": {
     "build": "npm -s run clean && tsc && copyfiles -u 1 src/schema/typeDefs/*.graphql dist/ && copyfiles -u 1 src/prisma/*.prisma dist/",
     "start": "node ./dist/index.js",
-    "watch": "ts-node-dev --respawn src/index.ts",
+    "watch": "npm i && ts-node-dev --respawn src/index.ts",
     "clean": "rm -rf dist",
     "prisma:generate": "prisma generate",
     "db:seed": "prisma db seed",
