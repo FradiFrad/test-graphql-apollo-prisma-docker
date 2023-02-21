@@ -1,0 +1,65 @@
+[
+    {
+      "name": "Pepperoni",
+      "ingredients": [
+        [
+          "Pepperoni",
+          16
+        ],
+        [
+          "Cheese",
+          40
+        ],
+        [
+          "Dough",
+          1
+        ],
+        [
+          "Sauce",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Branco",
+      "ingredients": [
+        [
+          "Cheese",
+          90
+        ],
+        [
+          "Dough",
+          1
+        ],
+        [
+          "Sauce",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "AllDressed",
+      "ingredients": [
+        [
+            "Pepperoni",
+            8
+          ],
+          [
+            "Cheese",
+            30
+          ],
+          [
+            "Vegetable",
+            30
+          ],
+          [
+            "Dough",
+            1
+          ],
+          [
+            "Sauce",
+            1
+          ]
+      ]
+    }
+  ]

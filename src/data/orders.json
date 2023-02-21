@@ -1,0 +1,2192 @@
+[
+    {
+      "Date": "Jan 1, 22",
+      "Pepperoni": 62,
+      "Branco": 16,
+      "AllDressed": 41
+    },
+    {
+      "Date": "Jan 2, 22",
+      "Pepperoni": 13,
+      "Branco": 84,
+      "AllDressed": 25
+    },
+    {
+      "Date": "Jan 3, 22",
+      "Pepperoni": 93,
+      "Branco": 64,
+      "AllDressed": 89
+    },
+    {
+      "Date": "Jan 4, 22",
+      "Pepperoni": 45,
+      "Branco": 53,
+      "AllDressed": 19
+    },
+    {
+      "Date": "Jan 5, 22",
+      "Pepperoni": 47,
+      "Branco": 29,
+      "AllDressed": 30
+    },
+    {
+      "Date": "Jan 6, 22",
+      "Pepperoni": 66,
+      "Branco": 15,
+      "AllDressed": 77
+    },
+    {
+      "Date": "Jan 7, 22",
+      "Pepperoni": 12,
+      "Branco": 31,
+      "AllDressed": 98
+    },
+    {
+      "Date": "Jan 8, 22",
+      "Pepperoni": 29,
+      "Branco": 85,
+      "AllDressed": 51
+    },
+    {
+      "Date": "Jan 9, 22",
+      "Pepperoni": 20,
+      "Branco": 98,
+      "AllDressed": 38
+    },
+    {
+      "Date": "Jan 10, 22",
+      "Pepperoni": 10,
+      "Branco": 97,
+      "AllDressed": 18
+    },
+    {
+      "Date": "Jan 11, 22",
+      "Pepperoni": 76,
+      "Branco": 50,
+      "AllDressed": 41
+    },
+    {
+      "Date": "Jan 12, 22",
+      "Pepperoni": 96,
+      "Branco": 87,
+      "AllDressed": 3
+    },
+    {
+      "Date": "Jan 13, 22",
+      "Pepperoni": 27,
+      "Branco": 22,
+      "AllDressed": 88
+    },
+    {
+      "Date": "Jan 14, 22",
+      "Pepperoni": 2,
+      "Branco": 93,
+      "AllDressed": 60
+    },
+    {
+      "Date": "Jan 15, 22",
+      "Pepperoni": 10,
+      "Branco": 3,
+      "AllDressed": 33
+    },
+    {
+      "Date": "Jan 16, 22",
+      "Pepperoni": 16,
+      "Branco": 74,
+      "AllDressed": 23
+    },
+    {
+      "Date": "Jan 17, 22",
+      "Pepperoni": 93,
+      "Branco": 47,
+      "AllDressed": 52
+    },
+    {
+      "Date": "Jan 18, 22",
+      "Pepperoni": 97,
+      "Branco": 51,
+      "AllDressed": 70
+    },
+    {
+      "Date": "Jan 19, 22",
+      "Pepperoni": 71,
+      "Branco": 5,
+      "AllDressed": 91
+    },
+    {
+      "Date": "Jan 20, 22",
+      "Pepperoni": 76,
+      "Branco": 56,
+      "AllDressed": 51
+    },
+    {
+      "Date": "Jan 21, 22",
+      "Pepperoni": 7,
+      "Branco": 24,
+      "AllDressed": 64
+    },
+    {
+      "Date": "Jan 22, 22",
+      "Pepperoni": 53,
+      "Branco": 34,
+      "AllDressed": 91
+    },
+    {
+      "Date": "Jan 23, 22",
+      "Pepperoni": 71,
+      "Branco": 89,
+      "AllDressed": 5
+    },
+    {
+      "Date": "Jan 24, 22",
+      "Pepperoni": 21,
+      "Branco": 42,
+      "AllDressed": 52
+    },
+    {
+      "Date": "Jan 25, 22",
+      "Pepperoni": 20,
+      "Branco": 96,
+      "AllDressed": 62
+    },
+    {
+      "Date": "Jan 26, 22",
+      "Pepperoni": 89,
+      "Branco": 27,
+      "AllDressed": 20
+    },
+    {
+      "Date": "Jan 27, 22",
+      "Pepperoni": 12,
+      "Branco": 28,
+      "AllDressed": 11
+    },
+    {
+      "Date": "Jan 28, 22",
+      "Pepperoni": 18,
+      "Branco": 88,
+      "AllDressed": 12
+    },
+    {
+      "Date": "Jan 29, 22",
+      "Pepperoni": 93,
+      "Branco": 3,
+      "AllDressed": 96
+    },
+    {
+      "Date": "Jan 30, 22",
+      "Pepperoni": 75,
+      "Branco": 22,
+      "AllDressed": 25
+    },
+    {
+      "Date": "Jan 31, 22",
+      "Pepperoni": 18,
+      "Branco": 48,
+      "AllDressed": 97
+    },
+    {
+      "Date": "Feb 1, 22",
+      "Pepperoni": 88,
+      "Branco": 97,
+      "AllDressed": 79
+    },
+    {
+      "Date": "Feb 2, 22",
+      "Pepperoni": 5,
+      "Branco": 37,
+      "AllDressed": 43
+    },
+    {
+      "Date": "Feb 3, 22",
+      "Pepperoni": 30,
+      "Branco": 7,
+      "AllDressed": 46
+    },
+    {
+      "Date": "Feb 4, 22",
+      "Pepperoni": 96,
+      "Branco": 77,
+      "AllDressed": 18
+    },
+    {
+      "Date": "Feb 5, 22",
+      "Pepperoni": 70,
+      "Branco": 98,
+      "AllDressed": 66
+    },
+    {
+      "Date": "Feb 6, 22",
+      "Pepperoni": 46,
+      "Branco": 38,
+      "AllDressed": 37
+    },
+    {
+      "Date": "Feb 7, 22",
+      "Pepperoni": 34,
+      "Branco": 50,
+      "AllDressed": 18
+    },
+    {
+      "Date": "Feb 8, 22",
+      "Pepperoni": 50,
+      "Branco": 5,
+      "AllDressed": 100
+    },
+    {
+      "Date": "Feb 9, 22",
+      "Pepperoni": 31,
+      "Branco": 24,
+      "AllDressed": 51
+    },
+    {
+      "Date": "Feb 10, 22",
+      "Pepperoni": 58,
+      "Branco": 44,
+      "AllDressed": 18
+    },
+    {
+      "Date": "Feb 11, 22",
+      "Pepperoni": 17,
+      "Branco": 22,
+      "AllDressed": 20
+    },
+    {
+      "Date": "Feb 12, 22",
+      "Pepperoni": 73,
+      "Branco": 71,
+      "AllDressed": 85
+    },
+    {
+      "Date": "Feb 13, 22",
+      "Pepperoni": 95,
+      "Branco": 54,
+      "AllDressed": 26
+    },
+    {
+      "Date": "Feb 14, 22",
+      "Pepperoni": 48,
+      "Branco": 95,
+      "AllDressed": 74
+    },
+    {
+      "Date": "Feb 15, 22",
+      "Pepperoni": 73,
+      "Branco": 74,
+      "AllDressed": 42
+    },
+    {
+      "Date": "Feb 16, 22",
+      "Pepperoni": 95,
+      "Branco": 74,
+      "AllDressed": 46
+    },
+    {
+      "Date": "Feb 17, 22",
+      "Pepperoni": 96,
+      "Branco": 10,
+      "AllDressed": 62
+    },
+    {
+      "Date": "Feb 18, 22",
+      "Pepperoni": 81,
+      "Branco": 86,
+      "AllDressed": 52
+    },
+    {
+      "Date": "Feb 19, 22",
+      "Pepperoni": 76,
+      "Branco": 22,
+      "AllDressed": 56
+    },
+    {
+      "Date": "Feb 20, 22",
+      "Pepperoni": 30,
+      "Branco": 96,
+      "AllDressed": 37
+    },
+    {
+      "Date": "Feb 21, 22",
+      "Pepperoni": 27,
+      "Branco": 90,
+      "AllDressed": 2
+    },
+    {
+      "Date": "Feb 22, 22",
+      "Pepperoni": 2,
+      "Branco": 7,
+      "AllDressed": 4
+    },
+    {
+      "Date": "Feb 23, 22",
+      "Pepperoni": 91,
+      "Branco": 91,
+      "AllDressed": 54
+    },
+    {
+      "Date": "Feb 24, 22",
+      "Pepperoni": 53,
+      "Branco": 92,
+      "AllDressed": 53
+    },
+    {
+      "Date": "Feb 25, 22",
+      "Pepperoni": 14,
+      "Branco": 15,
+      "AllDressed": 90
+    },
+    {
+      "Date": "Feb 26, 22",
+      "Pepperoni": 60,
+      "Branco": 53,
+      "AllDressed": 15
+    },
+    {
+      "Date": "Feb 27, 22",
+      "Pepperoni": 86,
+      "Branco": 19,
+      "AllDressed": 28
+    },
+    {
+      "Date": "Feb 28, 22",
+      "Pepperoni": 72,
+      "Branco": 8,
+      "AllDressed": 95
+    },
+    {
+      "Date": "Mar 1, 22",
+      "Pepperoni": 93,
+      "Branco": 27,
+      "AllDressed": 29
+    },
+    {
+      "Date": "Mar 2, 22",
+      "Pepperoni": 7,
+      "Branco": 92,
+      "AllDressed": 99
+    },
+    {
+      "Date": "Mar 3, 22",
+      "Pepperoni": 80,
+      "Branco": 94,
+      "AllDressed": 31
+    },
+    {
+      "Date": "Mar 4, 22",
+      "Pepperoni": 31,
+      "Branco": 50,
+      "AllDressed": 76
+    },
+    {
+      "Date": "Mar 5, 22",
+      "Pepperoni": 51,
+      "Branco": 69,
+      "AllDressed": 25
+    },
+    {
+      "Date": "Mar 6, 22",
+      "Pepperoni": 24,
+      "Branco": 72,
+      "AllDressed": 72
+    },
+    {
+      "Date": "Mar 7, 22",
+      "Pepperoni": 99,
+      "Branco": 83,
+      "AllDressed": 1
+    },
+    {
+      "Date": "Mar 8, 22",
+      "Pepperoni": 0,
+      "Branco": 53,
+      "AllDressed": 94
+    },
+    {
+      "Date": "Mar 9, 22",
+      "Pepperoni": 35,
+      "Branco": 93,
+      "AllDressed": 89
+    },
+    {
+      "Date": "Mar 10, 22",
+      "Pepperoni": 94,
+      "Branco": 10,
+      "AllDressed": 37
+    },
+    {
+      "Date": "Mar 11, 22",
+      "Pepperoni": 28,
+      "Branco": 96,
+      "AllDressed": 95
+    },
+    {
+      "Date": "Mar 12, 22",
+      "Pepperoni": 16,
+      "Branco": 56,
+      "AllDressed": 96
+    },
+    {
+      "Date": "Mar 13, 22",
+      "Pepperoni": 24,
+      "Branco": 80,
+      "AllDressed": 41
+    },
+    {
+      "Date": "Mar 14, 22",
+      "Pepperoni": 56,
+      "Branco": 85,
+      "AllDressed": 71
+    },
+    {
+      "Date": "Mar 15, 22",
+      "Pepperoni": 90,
+      "Branco": 77,
+      "AllDressed": 99
+    },
+    {
+      "Date": "Mar 16, 22",
+      "Pepperoni": 60,
+      "Branco": 35,
+      "AllDressed": 98
+    },
+    {
+      "Date": "Mar 17, 22",
+      "Pepperoni": 10,
+      "Branco": 28,
+      "AllDressed": 67
+    },
+    {
+      "Date": "Mar 18, 22",
+      "Pepperoni": 20,
+      "Branco": 19,
+      "AllDressed": 82
+    },
+    {
+      "Date": "Mar 19, 22",
+      "Pepperoni": 3,
+      "Branco": 49,
+      "AllDressed": 97
+    },
+    {
+      "Date": "Mar 20, 22",
+      "Pepperoni": 35,
+      "Branco": 79,
+      "AllDressed": 79
+    },
+    {
+      "Date": "Mar 21, 22",
+      "Pepperoni": 44,
+      "Branco": 77,
+      "AllDressed": 65
+    },
+    {
+      "Date": "Mar 22, 22",
+      "Pepperoni": 79,
+      "Branco": 9,
+      "AllDressed": 45
+    },
+    {
+      "Date": "Mar 23, 22",
+      "Pepperoni": 48,
+      "Branco": 81,
+      "AllDressed": 84
+    },
+    {
+      "Date": "Mar 24, 22",
+      "Pepperoni": 11,
+      "Branco": 6,
+      "AllDressed": 76
+    },
+    {
+      "Date": "Mar 25, 22",
+      "Pepperoni": 32,
+      "Branco": 27,
+      "AllDressed": 32
+    },
+    {
+      "Date": "Mar 26, 22",
+      "Pepperoni": 55,
+      "Branco": 87,
+      "AllDressed": 32
+    },
+    {
+      "Date": "Mar 27, 22",
+      "Pepperoni": 63,
+      "Branco": 74,
+      "AllDressed": 20
+    },
+    {
+      "Date": "Mar 28, 22",
+      "Pepperoni": 88,
+      "Branco": 61,
+      "AllDressed": 92
+    },
+    {
+      "Date": "Mar 29, 22",
+      "Pepperoni": 99,
+      "Branco": 38,
+      "AllDressed": 35
+    },
+    {
+      "Date": "Mar 30, 22",
+      "Pepperoni": 52,
+      "Branco": 97,
+      "AllDressed": 47
+    },
+    {
+      "Date": "Mar 31, 22",
+      "Pepperoni": 82,
+      "Branco": 29,
+      "AllDressed": 52
+    },
+    {
+      "Date": "Apr 1, 22",
+      "Pepperoni": 34,
+      "Branco": 73,
+      "AllDressed": 29
+    },
+    {
+      "Date": "Apr 2, 22",
+      "Pepperoni": 92,
+      "Branco": 66,
+      "AllDressed": 24
+    },
+    {
+      "Date": "Apr 3, 22",
+      "Pepperoni": 7,
+      "Branco": 79,
+      "AllDressed": 77
+    },
+    {
+      "Date": "Apr 4, 22",
+      "Pepperoni": 48,
+      "Branco": 78,
+      "AllDressed": 38
+    },
+    {
+      "Date": "Apr 5, 22",
+      "Pepperoni": 75,
+      "Branco": 89,
+      "AllDressed": 64
+    },
+    {
+      "Date": "Apr 6, 22",
+      "Pepperoni": 88,
+      "Branco": 59,
+      "AllDressed": 54
+    },
+    {
+      "Date": "Apr 7, 22",
+      "Pepperoni": 55,
+      "Branco": 80,
+      "AllDressed": 68
+    },
+    {
+      "Date": "Apr 8, 22",
+      "Pepperoni": 1,
+      "Branco": 49,
+      "AllDressed": 49
+    },
+    {
+      "Date": "Apr 9, 22",
+      "Pepperoni": 76,
+      "Branco": 24,
+      "AllDressed": 69
+    },
+    {
+      "Date": "Apr 10, 22",
+      "Pepperoni": 80,
+      "Branco": 88,
+      "AllDressed": 89
+    },
+    {
+      "Date": "Apr 11, 22",
+      "Pepperoni": 80,
+      "Branco": 16,
+      "AllDressed": 31
+    },
+    {
+      "Date": "Apr 12, 22",
+      "Pepperoni": 88,
+      "Branco": 45,
+      "AllDressed": 29
+    },
+    {
+      "Date": "Apr 13, 22",
+      "Pepperoni": 33,
+      "Branco": 64,
+      "AllDressed": 19
+    },
+    {
+      "Date": "Apr 14, 22",
+      "Pepperoni": 74,
+      "Branco": 67,
+      "AllDressed": 93
+    },
+    {
+      "Date": "Apr 15, 22",
+      "Pepperoni": 30,
+      "Branco": 59,
+      "AllDressed": 28
+    },
+    {
+      "Date": "Apr 16, 22",
+      "Pepperoni": 11,
+      "Branco": 12,
+      "AllDressed": 55
+    },
+    {
+      "Date": "Apr 17, 22",
+      "Pepperoni": 5,
+      "Branco": 25,
+      "AllDressed": 88
+    },
+    {
+      "Date": "Apr 18, 22",
+      "Pepperoni": 77,
+      "Branco": 75,
+      "AllDressed": 10
+    },
+    {
+      "Date": "Apr 19, 22",
+      "Pepperoni": 42,
+      "Branco": 84,
+      "AllDressed": 28
+    },
+    {
+      "Date": "Apr 20, 22",
+      "Pepperoni": 79,
+      "Branco": 13,
+      "AllDressed": 28
+    },
+    {
+      "Date": "Apr 21, 22",
+      "Pepperoni": 65,
+      "Branco": 23,
+      "AllDressed": 22
+    },
+    {
+      "Date": "Apr 22, 22",
+      "Pepperoni": 10,
+      "Branco": 94,
+      "AllDressed": 88
+    },
+    {
+      "Date": "Apr 23, 22",
+      "Pepperoni": 23,
+      "Branco": 62,
+      "AllDressed": 39
+    },
+    {
+      "Date": "Apr 24, 22",
+      "Pepperoni": 6,
+      "Branco": 91,
+      "AllDressed": 20
+    },
+    {
+      "Date": "Apr 25, 22",
+      "Pepperoni": 21,
+      "Branco": 55,
+      "AllDressed": 82
+    },
+    {
+      "Date": "Apr 26, 22",
+      "Pepperoni": 4,
+      "Branco": 11,
+      "AllDressed": 94
+    },
+    {
+      "Date": "Apr 27, 22",
+      "Pepperoni": 59,
+      "Branco": 23,
+      "AllDressed": 6
+    },
+    {
+      "Date": "Apr 28, 22",
+      "Pepperoni": 50,
+      "Branco": 71,
+      "AllDressed": 83
+    },
+    {
+      "Date": "Apr 29, 22",
+      "Pepperoni": 22,
+      "Branco": 76,
+      "AllDressed": 24
+    },
+    {
+      "Date": "Apr 30, 22",
+      "Pepperoni": 62,
+      "Branco": 60,
+      "AllDressed": 26
+    },
+    {
+      "Date": "May 1, 22",
+      "Pepperoni": 42,
+      "Branco": 5,
+      "AllDressed": 59
+    },
+    {
+      "Date": "May 2, 22",
+      "Pepperoni": 82,
+      "Branco": 16,
+      "AllDressed": 21
+    },
+    {
+      "Date": "May 3, 22",
+      "Pepperoni": 47,
+      "Branco": 60,
+      "AllDressed": 6
+    },
+    {
+      "Date": "May 4, 22",
+      "Pepperoni": 36,
+      "Branco": 21,
+      "AllDressed": 38
+    },
+    {
+      "Date": "May 5, 22",
+      "Pepperoni": 33,
+      "Branco": 44,
+      "AllDressed": 2
+    },
+    {
+      "Date": "May 6, 22",
+      "Pepperoni": 20,
+      "Branco": 45,
+      "AllDressed": 27
+    },
+    {
+      "Date": "May 7, 22",
+      "Pepperoni": 66,
+      "Branco": 86,
+      "AllDressed": 81
+    },
+    {
+      "Date": "May 8, 22",
+      "Pepperoni": 34,
+      "Branco": 24,
+      "AllDressed": 40
+    },
+    {
+      "Date": "May 9, 22",
+      "Pepperoni": 19,
+      "Branco": 13,
+      "AllDressed": 10
+    },
+    {
+      "Date": "May 10, 22",
+      "Pepperoni": 75,
+      "Branco": 63,
+      "AllDressed": 80
+    },
+    {
+      "Date": "May 11, 22",
+      "Pepperoni": 98,
+      "Branco": 51,
+      "AllDressed": 74
+    },
+    {
+      "Date": "May 12, 22",
+      "Pepperoni": 34,
+      "Branco": 42,
+      "AllDressed": 80
+    },
+    {
+      "Date": "May 13, 22",
+      "Pepperoni": 26,
+      "Branco": 48,
+      "AllDressed": 54
+    },
+    {
+      "Date": "May 14, 22",
+      "Pepperoni": 92,
+      "Branco": 60,
+      "AllDressed": 0
+    },
+    {
+      "Date": "May 15, 22",
+      "Pepperoni": 47,
+      "Branco": 99,
+      "AllDressed": 97
+    },
+    {
+      "Date": "May 16, 22",
+      "Pepperoni": 58,
+      "Branco": 9,
+      "AllDressed": 36
+    },
+    {
+      "Date": "May 17, 22",
+      "Pepperoni": 44,
+      "Branco": 75,
+      "AllDressed": 17
+    },
+    {
+      "Date": "May 18, 22",
+      "Pepperoni": 4,
+      "Branco": 8,
+      "AllDressed": 77
+    },
+    {
+      "Date": "May 19, 22",
+      "Pepperoni": 96,
+      "Branco": 89,
+      "AllDressed": 44
+    },
+    {
+      "Date": "May 20, 22",
+      "Pepperoni": 34,
+      "Branco": 48,
+      "AllDressed": 4
+    },
+    {
+      "Date": "May 21, 22",
+      "Pepperoni": 67,
+      "Branco": 35,
+      "AllDressed": 61
+    },
+    {
+      "Date": "May 22, 22",
+      "Pepperoni": 58,
+      "Branco": 77,
+      "AllDressed": 72
+    },
+    {
+      "Date": "May 23, 22",
+      "Pepperoni": 38,
+      "Branco": 87,
+      "AllDressed": 11
+    },
+    {
+      "Date": "May 24, 22",
+      "Pepperoni": 20,
+      "Branco": 13,
+      "AllDressed": 31
+    },
+    {
+      "Date": "May 25, 22",
+      "Pepperoni": 13,
+      "Branco": 70,
+      "AllDressed": 90
+    },
+    {
+      "Date": "May 26, 22",
+      "Pepperoni": 89,
+      "Branco": 52,
+      "AllDressed": 32
+    },
+    {
+      "Date": "May 27, 22",
+      "Pepperoni": 81,
+      "Branco": 6,
+      "AllDressed": 35
+    },
+    {
+      "Date": "May 28, 22",
+      "Pepperoni": 8,
+      "Branco": 61,
+      "AllDressed": 51
+    },
+    {
+      "Date": "May 29, 22",
+      "Pepperoni": 92,
+      "Branco": 39,
+      "AllDressed": 59
+    },
+    {
+      "Date": "May 30, 22",
+      "Pepperoni": 9,
+      "Branco": 75,
+      "AllDressed": 52
+    },
+    {
+      "Date": "May 31, 22",
+      "Pepperoni": 31,
+      "Branco": 87,
+      "AllDressed": 17
+    },
+    {
+      "Date": "Jun 1, 22",
+      "Pepperoni": 19,
+      "Branco": 50,
+      "AllDressed": 79
+    },
+    {
+      "Date": "Jun 2, 22",
+      "Pepperoni": 9,
+      "Branco": 69,
+      "AllDressed": 61
+    },
+    {
+      "Date": "Jun 3, 22",
+      "Pepperoni": 56,
+      "Branco": 76,
+      "AllDressed": 43
+    },
+    {
+      "Date": "Jun 4, 22",
+      "Pepperoni": 43,
+      "Branco": 81,
+      "AllDressed": 75
+    },
+    {
+      "Date": "Jun 5, 22",
+      "Pepperoni": 85,
+      "Branco": 94,
+      "AllDressed": 58
+    },
+    {
+      "Date": "Jun 6, 22",
+      "Pepperoni": 38,
+      "Branco": 21,
+      "AllDressed": 20
+    },
+    {
+      "Date": "Jun 7, 22",
+      "Pepperoni": 68,
+      "Branco": 100,
+      "AllDressed": 92
+    },
+    {
+      "Date": "Jun 8, 22",
+      "Pepperoni": 99,
+      "Branco": 29,
+      "AllDressed": 17
+    },
+    {
+      "Date": "Jun 9, 22",
+      "Pepperoni": 95,
+      "Branco": 95,
+      "AllDressed": 98
+    },
+    {
+      "Date": "Jun 10, 22",
+      "Pepperoni": 90,
+      "Branco": 95,
+      "AllDressed": 47
+    },
+    {
+      "Date": "Jun 11, 22",
+      "Pepperoni": 50,
+      "Branco": 99,
+      "AllDressed": 11
+    },
+    {
+      "Date": "Jun 12, 22",
+      "Pepperoni": 69,
+      "Branco": 58,
+      "AllDressed": 77
+    },
+    {
+      "Date": "Jun 13, 22",
+      "Pepperoni": 88,
+      "Branco": 14,
+      "AllDressed": 44
+    },
+    {
+      "Date": "Jun 14, 22",
+      "Pepperoni": 98,
+      "Branco": 9,
+      "AllDressed": 62
+    },
+    {
+      "Date": "Jun 15, 22",
+      "Pepperoni": 79,
+      "Branco": 3,
+      "AllDressed": 14
+    },
+    {
+      "Date": "Jun 16, 22",
+      "Pepperoni": 52,
+      "Branco": 88,
+      "AllDressed": 9
+    },
+    {
+      "Date": "Jun 17, 22",
+      "Pepperoni": 60,
+      "Branco": 23,
+      "AllDressed": 45
+    },
+    {
+      "Date": "Jun 18, 22",
+      "Pepperoni": 84,
+      "Branco": 7,
+      "AllDressed": 98
+    },
+    {
+      "Date": "Jun 19, 22",
+      "Pepperoni": 36,
+      "Branco": 43,
+      "AllDressed": 82
+    },
+    {
+      "Date": "Jun 20, 22",
+      "Pepperoni": 72,
+      "Branco": 65,
+      "AllDressed": 91
+    },
+    {
+      "Date": "Jun 21, 22",
+      "Pepperoni": 41,
+      "Branco": 41,
+      "AllDressed": 83
+    },
+    {
+      "Date": "Jun 22, 22",
+      "Pepperoni": 32,
+      "Branco": 66,
+      "AllDressed": 49
+    },
+    {
+      "Date": "Jun 23, 22",
+      "Pepperoni": 48,
+      "Branco": 63,
+      "AllDressed": 13
+    },
+    {
+      "Date": "Jun 24, 22",
+      "Pepperoni": 51,
+      "Branco": 12,
+      "AllDressed": 82
+    },
+    {
+      "Date": "Jun 25, 22",
+      "Pepperoni": 29,
+      "Branco": 60,
+      "AllDressed": 89
+    },
+    {
+      "Date": "Jun 26, 22",
+      "Pepperoni": 91,
+      "Branco": 37,
+      "AllDressed": 57
+    },
+    {
+      "Date": "Jun 27, 22",
+      "Pepperoni": 38,
+      "Branco": 21,
+      "AllDressed": 86
+    },
+    {
+      "Date": "Jun 28, 22",
+      "Pepperoni": 65,
+      "Branco": 2,
+      "AllDressed": 79
+    },
+    {
+      "Date": "Jun 29, 22",
+      "Pepperoni": 34,
+      "Branco": 90,
+      "AllDressed": 51
+    },
+    {
+      "Date": "Jun 30, 22",
+      "Pepperoni": 46,
+      "Branco": 20,
+      "AllDressed": 0
+    },
+    {
+      "Date": "Jul 1, 22",
+      "Pepperoni": 99,
+      "Branco": 33,
+      "AllDressed": 26
+    },
+    {
+      "Date": "Jul 2, 22",
+      "Pepperoni": 66,
+      "Branco": 4,
+      "AllDressed": 76
+    },
+    {
+      "Date": "Jul 3, 22",
+      "Pepperoni": 27,
+      "Branco": 98,
+      "AllDressed": 86
+    },
+    {
+      "Date": "Jul 4, 22",
+      "Pepperoni": 40,
+      "Branco": 100,
+      "AllDressed": 31
+    },
+    {
+      "Date": "Jul 5, 22",
+      "Pepperoni": 45,
+      "Branco": 11,
+      "AllDressed": 62
+    },
+    {
+      "Date": "Jul 6, 22",
+      "Pepperoni": 85,
+      "Branco": 67,
+      "AllDressed": 3
+    },
+    {
+      "Date": "Jul 7, 22",
+      "Pepperoni": 65,
+      "Branco": 42,
+      "AllDressed": 52
+    },
+    {
+      "Date": "Jul 8, 22",
+      "Pepperoni": 22,
+      "Branco": 95,
+      "AllDressed": 55
+    },
+    {
+      "Date": "Jul 9, 22",
+      "Pepperoni": 84,
+      "Branco": 79,
+      "AllDressed": 73
+    },
+    {
+      "Date": "Jul 10, 22",
+      "Pepperoni": 94,
+      "Branco": 66,
+      "AllDressed": 2
+    },
+    {
+      "Date": "Jul 11, 22",
+      "Pepperoni": 17,
+      "Branco": 32,
+      "AllDressed": 47
+    },
+    {
+      "Date": "Jul 12, 22",
+      "Pepperoni": 75,
+      "Branco": 41,
+      "AllDressed": 61
+    },
+    {
+      "Date": "Jul 13, 22",
+      "Pepperoni": 19,
+      "Branco": 80,
+      "AllDressed": 94
+    },
+    {
+      "Date": "Jul 14, 22",
+      "Pepperoni": 73,
+      "Branco": 71,
+      "AllDressed": 44
+    },
+    {
+      "Date": "Jul 15, 22",
+      "Pepperoni": 87,
+      "Branco": 4,
+      "AllDressed": 24
+    },
+    {
+      "Date": "Jul 16, 22",
+      "Pepperoni": 51,
+      "Branco": 25,
+      "AllDressed": 49
+    },
+    {
+      "Date": "Jul 17, 22",
+      "Pepperoni": 93,
+      "Branco": 95,
+      "AllDressed": 92
+    },
+    {
+      "Date": "Jul 18, 22",
+      "Pepperoni": 48,
+      "Branco": 27,
+      "AllDressed": 54
+    },
+    {
+      "Date": "Jul 19, 22",
+      "Pepperoni": 90,
+      "Branco": 22,
+      "AllDressed": 63
+    },
+    {
+      "Date": "Jul 20, 22",
+      "Pepperoni": 47,
+      "Branco": 12,
+      "AllDressed": 32
+    },
+    {
+      "Date": "Jul 21, 22",
+      "Pepperoni": 36,
+      "Branco": 68,
+      "AllDressed": 88
+    },
+    {
+      "Date": "Jul 22, 22",
+      "Pepperoni": 82,
+      "Branco": 42,
+      "AllDressed": 64
+    },
+    {
+      "Date": "Jul 23, 22",
+      "Pepperoni": 34,
+      "Branco": 75,
+      "AllDressed": 10
+    },
+    {
+      "Date": "Jul 24, 22",
+      "Pepperoni": 95,
+      "Branco": 40,
+      "AllDressed": 5
+    },
+    {
+      "Date": "Jul 25, 22",
+      "Pepperoni": 8,
+      "Branco": 8,
+      "AllDressed": 35
+    },
+    {
+      "Date": "Jul 26, 22",
+      "Pepperoni": 13,
+      "Branco": 8,
+      "AllDressed": 59
+    },
+    {
+      "Date": "Jul 27, 22",
+      "Pepperoni": 97,
+      "Branco": 94,
+      "AllDressed": 25
+    },
+    {
+      "Date": "Jul 28, 22",
+      "Pepperoni": 35,
+      "Branco": 71,
+      "AllDressed": 66
+    },
+    {
+      "Date": "Jul 29, 22",
+      "Pepperoni": 68,
+      "Branco": 48,
+      "AllDressed": 78
+    },
+    {
+      "Date": "Jul 30, 22",
+      "Pepperoni": 62,
+      "Branco": 24,
+      "AllDressed": 5
+    },
+    {
+      "Date": "Jul 31, 22",
+      "Pepperoni": 9,
+      "Branco": 43,
+      "AllDressed": 36
+    },
+    {
+      "Date": "Aug 1, 22",
+      "Pepperoni": 77,
+      "Branco": 43,
+      "AllDressed": 38
+    },
+    {
+      "Date": "Aug 2, 22",
+      "Pepperoni": 37,
+      "Branco": 9,
+      "AllDressed": 1
+    },
+    {
+      "Date": "Aug 3, 22",
+      "Pepperoni": 20,
+      "Branco": 11,
+      "AllDressed": 25
+    },
+    {
+      "Date": "Aug 4, 22",
+      "Pepperoni": 12,
+      "Branco": 26,
+      "AllDressed": 48
+    },
+    {
+      "Date": "Aug 5, 22",
+      "Pepperoni": 45,
+      "Branco": 57,
+      "AllDressed": 87
+    },
+    {
+      "Date": "Aug 6, 22",
+      "Pepperoni": 2,
+      "Branco": 24,
+      "AllDressed": 43
+    },
+    {
+      "Date": "Aug 7, 22",
+      "Pepperoni": 30,
+      "Branco": 33,
+      "AllDressed": 73
+    },
+    {
+      "Date": "Aug 8, 22",
+      "Pepperoni": 37,
+      "Branco": 78,
+      "AllDressed": 23
+    },
+    {
+      "Date": "Aug 9, 22",
+      "Pepperoni": 95,
+      "Branco": 41,
+      "AllDressed": 40
+    },
+    {
+      "Date": "Aug 10, 22",
+      "Pepperoni": 98,
+      "Branco": 80,
+      "AllDressed": 15
+    },
+    {
+      "Date": "Aug 11, 22",
+      "Pepperoni": 67,
+      "Branco": 29,
+      "AllDressed": 1
+    },
+    {
+      "Date": "Aug 12, 22",
+      "Pepperoni": 73,
+      "Branco": 93,
+      "AllDressed": 92
+    },
+    {
+      "Date": "Aug 13, 22",
+      "Pepperoni": 31,
+      "Branco": 86,
+      "AllDressed": 48
+    },
+    {
+      "Date": "Aug 14, 22",
+      "Pepperoni": 25,
+      "Branco": 24,
+      "AllDressed": 54
+    },
+    {
+      "Date": "Aug 15, 22",
+      "Pepperoni": 51,
+      "Branco": 100,
+      "AllDressed": 45
+    },
+    {
+      "Date": "Aug 16, 22",
+      "Pepperoni": 43,
+      "Branco": 98,
+      "AllDressed": 39
+    },
+    {
+      "Date": "Aug 17, 22",
+      "Pepperoni": 89,
+      "Branco": 87,
+      "AllDressed": 75
+    },
+    {
+      "Date": "Aug 18, 22",
+      "Pepperoni": 46,
+      "Branco": 92,
+      "AllDressed": 86
+    },
+    {
+      "Date": "Aug 19, 22",
+      "Pepperoni": 16,
+      "Branco": 3,
+      "AllDressed": 59
+    },
+    {
+      "Date": "Aug 20, 22",
+      "Pepperoni": 31,
+      "Branco": 51,
+      "AllDressed": 39
+    },
+    {
+      "Date": "Aug 21, 22",
+      "Pepperoni": 56,
+      "Branco": 66,
+      "AllDressed": 70
+    },
+    {
+      "Date": "Aug 22, 22",
+      "Pepperoni": 39,
+      "Branco": 16,
+      "AllDressed": 4
+    },
+    {
+      "Date": "Aug 23, 22",
+      "Pepperoni": 69,
+      "Branco": 34,
+      "AllDressed": 18
+    },
+    {
+      "Date": "Aug 24, 22",
+      "Pepperoni": 96,
+      "Branco": 9,
+      "AllDressed": 52
+    },
+    {
+      "Date": "Aug 25, 22",
+      "Pepperoni": 10,
+      "Branco": 33,
+      "AllDressed": 22
+    },
+    {
+      "Date": "Aug 26, 22",
+      "Pepperoni": 70,
+      "Branco": 3,
+      "AllDressed": 95
+    },
+    {
+      "Date": "Aug 27, 22",
+      "Pepperoni": 28,
+      "Branco": 91,
+      "AllDressed": 54
+    },
+    {
+      "Date": "Aug 28, 22",
+      "Pepperoni": 87,
+      "Branco": 97,
+      "AllDressed": 67
+    },
+    {
+      "Date": "Aug 29, 22",
+      "Pepperoni": 87,
+      "Branco": 25,
+      "AllDressed": 10
+    },
+    {
+      "Date": "Aug 30, 22",
+      "Pepperoni": 78,
+      "Branco": 41,
+      "AllDressed": 79
+    },
+    {
+      "Date": "Aug 31, 22",
+      "Pepperoni": 63,
+      "Branco": 83,
+      "AllDressed": 67
+    },
+    {
+      "Date": "Sep 1, 22",
+      "Pepperoni": 20,
+      "Branco": 66,
+      "AllDressed": 62
+    },
+    {
+      "Date": "Sep 2, 22",
+      "Pepperoni": 85,
+      "Branco": 26,
+      "AllDressed": 30
+    },
+    {
+      "Date": "Sep 3, 22",
+      "Pepperoni": 83,
+      "Branco": 77,
+      "AllDressed": 98
+    },
+    {
+      "Date": "Sep 4, 22",
+      "Pepperoni": 17,
+      "Branco": 11,
+      "AllDressed": 23
+    },
+    {
+      "Date": "Sep 5, 22",
+      "Pepperoni": 29,
+      "Branco": 38,
+      "AllDressed": 31
+    },
+    {
+      "Date": "Sep 6, 22",
+      "Pepperoni": 77,
+      "Branco": 1,
+      "AllDressed": 90
+    },
+    {
+      "Date": "Sep 7, 22",
+      "Pepperoni": 41,
+      "Branco": 39,
+      "AllDressed": 70
+    },
+    {
+      "Date": "Sep 8, 22",
+      "Pepperoni": 28,
+      "Branco": 72,
+      "AllDressed": 93
+    },
+    {
+      "Date": "Sep 9, 22",
+      "Pepperoni": 80,
+      "Branco": 90,
+      "AllDressed": 97
+    },
+    {
+      "Date": "Sep 10, 22",
+      "Pepperoni": 57,
+      "Branco": 81,
+      "AllDressed": 73
+    },
+    {
+      "Date": "Sep 11, 22",
+      "Pepperoni": 9,
+      "Branco": 3,
+      "AllDressed": 58
+    },
+    {
+      "Date": "Sep 12, 22",
+      "Pepperoni": 35,
+      "Branco": 77,
+      "AllDressed": 34
+    },
+    {
+      "Date": "Sep 13, 22",
+      "Pepperoni": 79,
+      "Branco": 36,
+      "AllDressed": 41
+    },
+    {
+      "Date": "Sep 14, 22",
+      "Pepperoni": 98,
+      "Branco": 46,
+      "AllDressed": 30
+    },
+    {
+      "Date": "Sep 15, 22",
+      "Pepperoni": 78,
+      "Branco": 27,
+      "AllDressed": 52
+    },
+    {
+      "Date": "Sep 16, 22",
+      "Pepperoni": 100,
+      "Branco": 35,
+      "AllDressed": 75
+    },
+    {
+      "Date": "Sep 17, 22",
+      "Pepperoni": 83,
+      "Branco": 46,
+      "AllDressed": 19
+    },
+    {
+      "Date": "Sep 18, 22",
+      "Pepperoni": 56,
+      "Branco": 9,
+      "AllDressed": 37
+    },
+    {
+      "Date": "Sep 19, 22",
+      "Pepperoni": 21,
+      "Branco": 89,
+      "AllDressed": 22
+    },
+    {
+      "Date": "Sep 20, 22",
+      "Pepperoni": 26,
+      "Branco": 46,
+      "AllDressed": 1
+    },
+    {
+      "Date": "Sep 21, 22",
+      "Pepperoni": 8,
+      "Branco": 38,
+      "AllDressed": 99
+    },
+    {
+      "Date": "Sep 22, 22",
+      "Pepperoni": 11,
+      "Branco": 35,
+      "AllDressed": 67
+    },
+    {
+      "Date": "Sep 23, 22",
+      "Pepperoni": 65,
+      "Branco": 40,
+      "AllDressed": 53
+    },
+    {
+      "Date": "Sep 24, 22",
+      "Pepperoni": 71,
+      "Branco": 92,
+      "AllDressed": 52
+    },
+    {
+      "Date": "Sep 25, 22",
+      "Pepperoni": 53,
+      "Branco": 72,
+      "AllDressed": 70
+    },
+    {
+      "Date": "Sep 26, 22",
+      "Pepperoni": 25,
+      "Branco": 5,
+      "AllDressed": 48
+    },
+    {
+      "Date": "Sep 27, 22",
+      "Pepperoni": 91,
+      "Branco": 52,
+      "AllDressed": 14
+    },
+    {
+      "Date": "Sep 28, 22",
+      "Pepperoni": 2,
+      "Branco": 34,
+      "AllDressed": 4
+    },
+    {
+      "Date": "Sep 29, 22",
+      "Pepperoni": 100,
+      "Branco": 87,
+      "AllDressed": 34
+    },
+    {
+      "Date": "Sep 30, 22",
+      "Pepperoni": 1,
+      "Branco": 75,
+      "AllDressed": 70
+    },
+    {
+      "Date": "Oct 1, 22",
+      "Pepperoni": 75,
+      "Branco": 56,
+      "AllDressed": 12
+    },
+    {
+      "Date": "Oct 2, 22",
+      "Pepperoni": 79,
+      "Branco": 31,
+      "AllDressed": 11
+    },
+    {
+      "Date": "Oct 3, 22",
+      "Pepperoni": 72,
+      "Branco": 94,
+      "AllDressed": 52
+    },
+    {
+      "Date": "Oct 4, 22",
+      "Pepperoni": 14,
+      "Branco": 5,
+      "AllDressed": 55
+    },
+    {
+      "Date": "Oct 5, 22",
+      "Pepperoni": 43,
+      "Branco": 36,
+      "AllDressed": 12
+    },
+    {
+      "Date": "Oct 6, 22",
+      "Pepperoni": 27,
+      "Branco": 84,
+      "AllDressed": 1
+    },
+    {
+      "Date": "Oct 7, 22",
+      "Pepperoni": 48,
+      "Branco": 84,
+      "AllDressed": 43
+    },
+    {
+      "Date": "Oct 8, 22",
+      "Pepperoni": 95,
+      "Branco": 75,
+      "AllDressed": 75
+    },
+    {
+      "Date": "Oct 9, 22",
+      "Pepperoni": 33,
+      "Branco": 48,
+      "AllDressed": 89
+    },
+    {
+      "Date": "Oct 10, 22",
+      "Pepperoni": 43,
+      "Branco": 73,
+      "AllDressed": 43
+    },
+    {
+      "Date": "Oct 11, 22",
+      "Pepperoni": 1,
+      "Branco": 88,
+      "AllDressed": 28
+    },
+    {
+      "Date": "Oct 12, 22",
+      "Pepperoni": 8,
+      "Branco": 60,
+      "AllDressed": 99
+    },
+    {
+      "Date": "Oct 13, 22",
+      "Pepperoni": 49,
+      "Branco": 28,
+      "AllDressed": 38
+    },
+    {
+      "Date": "Oct 14, 22",
+      "Pepperoni": 31,
+      "Branco": 72,
+      "AllDressed": 20
+    },
+    {
+      "Date": "Oct 15, 22",
+      "Pepperoni": 28,
+      "Branco": 48,
+      "AllDressed": 36
+    },
+    {
+      "Date": "Oct 16, 22",
+      "Pepperoni": 61,
+      "Branco": 7,
+      "AllDressed": 82
+    },
+    {
+      "Date": "Oct 17, 22",
+      "Pepperoni": 96,
+      "Branco": 57,
+      "AllDressed": 73
+    },
+    {
+      "Date": "Oct 18, 22",
+      "Pepperoni": 100,
+      "Branco": 70,
+      "AllDressed": 99
+    },
+    {
+      "Date": "Oct 19, 22",
+      "Pepperoni": 12,
+      "Branco": 73,
+      "AllDressed": 75
+    },
+    {
+      "Date": "Oct 20, 22",
+      "Pepperoni": 54,
+      "Branco": 20,
+      "AllDressed": 48
+    },
+    {
+      "Date": "Oct 21, 22",
+      "Pepperoni": 83,
+      "Branco": 53,
+      "AllDressed": 63
+    },
+    {
+      "Date": "Oct 22, 22",
+      "Pepperoni": 64,
+      "Branco": 9,
+      "AllDressed": 58
+    },
+    {
+      "Date": "Oct 23, 22",
+      "Pepperoni": 84,
+      "Branco": 81,
+      "AllDressed": 35
+    },
+    {
+      "Date": "Oct 24, 22",
+      "Pepperoni": 51,
+      "Branco": 64,
+      "AllDressed": 22
+    },
+    {
+      "Date": "Oct 25, 22",
+      "Pepperoni": 10,
+      "Branco": 65,
+      "AllDressed": 13
+    },
+    {
+      "Date": "Oct 26, 22",
+      "Pepperoni": 60,
+      "Branco": 32,
+      "AllDressed": 68
+    },
+    {
+      "Date": "Oct 27, 22",
+      "Pepperoni": 2,
+      "Branco": 25,
+      "AllDressed": 42
+    },
+    {
+      "Date": "Oct 28, 22",
+      "Pepperoni": 1,
+      "Branco": 93,
+      "AllDressed": 76
+    },
+    {
+      "Date": "Oct 29, 22",
+      "Pepperoni": 27,
+      "Branco": 62,
+      "AllDressed": 4
+    },
+    {
+      "Date": "Oct 30, 22",
+      "Pepperoni": 82,
+      "Branco": 60,
+      "AllDressed": 27
+    },
+    {
+      "Date": "Oct 31, 22",
+      "Pepperoni": 17,
+      "Branco": 55,
+      "AllDressed": 82
+    },
+    {
+      "Date": "Nov 1, 22",
+      "Pepperoni": 17,
+      "Branco": 18,
+      "AllDressed": 60
+    },
+    {
+      "Date": "Nov 2, 22",
+      "Pepperoni": 30,
+      "Branco": 9,
+      "AllDressed": 52
+    },
+    {
+      "Date": "Nov 3, 22",
+      "Pepperoni": 73,
+      "Branco": 91,
+      "AllDressed": 41
+    },
+    {
+      "Date": "Nov 4, 22",
+      "Pepperoni": 68,
+      "Branco": 68,
+      "AllDressed": 74
+    },
+    {
+      "Date": "Nov 5, 22",
+      "Pepperoni": 82,
+      "Branco": 30,
+      "AllDressed": 16
+    },
+    {
+      "Date": "Nov 6, 22",
+      "Pepperoni": 4,
+      "Branco": 59,
+      "AllDressed": 96
+    },
+    {
+      "Date": "Nov 7, 22",
+      "Pepperoni": 15,
+      "Branco": 81,
+      "AllDressed": 27
+    },
+    {
+      "Date": "Nov 8, 22",
+      "Pepperoni": 57,
+      "Branco": 60,
+      "AllDressed": 39
+    },
+    {
+      "Date": "Nov 9, 22",
+      "Pepperoni": 42,
+      "Branco": 8,
+      "AllDressed": 97
+    },
+    {
+      "Date": "Nov 10, 22",
+      "Pepperoni": 7,
+      "Branco": 82,
+      "AllDressed": 53
+    },
+    {
+      "Date": "Nov 11, 22",
+      "Pepperoni": 93,
+      "Branco": 66,
+      "AllDressed": 38
+    },
+    {
+      "Date": "Nov 12, 22",
+      "Pepperoni": 72,
+      "Branco": 79,
+      "AllDressed": 29
+    },
+    {
+      "Date": "Nov 13, 22",
+      "Pepperoni": 82,
+      "Branco": 61,
+      "AllDressed": 13
+    },
+    {
+      "Date": "Nov 14, 22",
+      "Pepperoni": 74,
+      "Branco": 15,
+      "AllDressed": 30
+    },
+    {
+      "Date": "Nov 15, 22",
+      "Pepperoni": 55,
+      "Branco": 72,
+      "AllDressed": 45
+    },
+    {
+      "Date": "Nov 16, 22",
+      "Pepperoni": 60,
+      "Branco": 89,
+      "AllDressed": 15
+    },
+    {
+      "Date": "Nov 17, 22",
+      "Pepperoni": 42,
+      "Branco": 30,
+      "AllDressed": 99
+    },
+    {
+      "Date": "Nov 18, 22",
+      "Pepperoni": 70,
+      "Branco": 90,
+      "AllDressed": 38
+    },
+    {
+      "Date": "Nov 19, 22",
+      "Pepperoni": 67,
+      "Branco": 54,
+      "AllDressed": 27
+    },
+    {
+      "Date": "Nov 20, 22",
+      "Pepperoni": 7,
+      "Branco": 97,
+      "AllDressed": 85
+    },
+    {
+      "Date": "Nov 21, 22",
+      "Pepperoni": 79,
+      "Branco": 78,
+      "AllDressed": 54
+    },
+    {
+      "Date": "Nov 22, 22",
+      "Pepperoni": 26,
+      "Branco": 75,
+      "AllDressed": 99
+    },
+    {
+      "Date": "Nov 23, 22",
+      "Pepperoni": 86,
+      "Branco": 71,
+      "AllDressed": 84
+    },
+    {
+      "Date": "Nov 24, 22",
+      "Pepperoni": 82,
+      "Branco": 50,
+      "AllDressed": 25
+    },
+    {
+      "Date": "Nov 25, 22",
+      "Pepperoni": 49,
+      "Branco": 96,
+      "AllDressed": 45
+    },
+    {
+      "Date": "Nov 26, 22",
+      "Pepperoni": 69,
+      "Branco": 73,
+      "AllDressed": 85
+    },
+    {
+      "Date": "Nov 27, 22",
+      "Pepperoni": 94,
+      "Branco": 88,
+      "AllDressed": 45
+    },
+    {
+      "Date": "Nov 28, 22",
+      "Pepperoni": 56,
+      "Branco": 43,
+      "AllDressed": 8
+    },
+    {
+      "Date": "Nov 29, 22",
+      "Pepperoni": 58,
+      "Branco": 32,
+      "AllDressed": 60
+    },
+    {
+      "Date": "Nov 30, 22",
+      "Pepperoni": 35,
+      "Branco": 49,
+      "AllDressed": 15
+    },
+    {
+      "Date": "Dec 1, 22",
+      "Pepperoni": 94,
+      "Branco": 59,
+      "AllDressed": 43
+    },
+    {
+      "Date": "Dec 2, 22",
+      "Pepperoni": 77,
+      "Branco": 5,
+      "AllDressed": 73
+    },
+    {
+      "Date": "Dec 3, 22",
+      "Pepperoni": 70,
+      "Branco": 83,
+      "AllDressed": 7
+    },
+    {
+      "Date": "Dec 4, 22",
+      "Pepperoni": 48,
+      "Branco": 67,
+      "AllDressed": 50
+    },
+    {
+      "Date": "Dec 5, 22",
+      "Pepperoni": 29,
+      "Branco": 29,
+      "AllDressed": 19
+    },
+    {
+      "Date": "Dec 6, 22",
+      "Pepperoni": 5,
+      "Branco": 19,
+      "AllDressed": 27
+    },
+    {
+      "Date": "Dec 7, 22",
+      "Pepperoni": 64,
+      "Branco": 82,
+      "AllDressed": 26
+    },
+    {
+      "Date": "Dec 8, 22",
+      "Pepperoni": 89,
+      "Branco": 97,
+      "AllDressed": 12
+    },
+    {
+      "Date": "Dec 9, 22",
+      "Pepperoni": 8,
+      "Branco": 38,
+      "AllDressed": 23
+    },
+    {
+      "Date": "Dec 10, 22",
+      "Pepperoni": 30,
+      "Branco": 0,
+      "AllDressed": 98
+    },
+    {
+      "Date": "Dec 11, 22",
+      "Pepperoni": 92,
+      "Branco": 95,
+      "AllDressed": 59
+    },
+    {
+      "Date": "Dec 12, 22",
+      "Pepperoni": 66,
+      "Branco": 98,
+      "AllDressed": 18
+    },
+    {
+      "Date": "Dec 13, 22",
+      "Pepperoni": 66,
+      "Branco": 74,
+      "AllDressed": 55
+    },
+    {
+      "Date": "Dec 14, 22",
+      "Pepperoni": 64,
+      "Branco": 89,
+      "AllDressed": 23
+    },
+    {
+      "Date": "Dec 15, 22",
+      "Pepperoni": 45,
+      "Branco": 74,
+      "AllDressed": 92
+    },
+    {
+      "Date": "Dec 16, 22",
+      "Pepperoni": 44,
+      "Branco": 84,
+      "AllDressed": 75
+    },
+    {
+      "Date": "Dec 17, 22",
+      "Pepperoni": 67,
+      "Branco": 62,
+      "AllDressed": 88
+    },
+    {
+      "Date": "Dec 18, 22",
+      "Pepperoni": 51,
+      "Branco": 67,
+      "AllDressed": 75
+    },
+    {
+      "Date": "Dec 19, 22",
+      "Pepperoni": 35,
+      "Branco": 61,
+      "AllDressed": 50
+    },
+    {
+      "Date": "Dec 20, 22",
+      "Pepperoni": 64,
+      "Branco": 89,
+      "AllDressed": 17
+    },
+    {
+      "Date": "Dec 21, 22",
+      "Pepperoni": 85,
+      "Branco": 52,
+      "AllDressed": 98
+    },
+    {
+      "Date": "Dec 22, 22",
+      "Pepperoni": 53,
+      "Branco": 62,
+      "AllDressed": 95
+    },
+    {
+      "Date": "Dec 23, 22",
+      "Pepperoni": 57,
+      "Branco": 7,
+      "AllDressed": 81
+    },
+    {
+      "Date": "Dec 24, 22",
+      "Pepperoni": 3,
+      "Branco": 96,
+      "AllDressed": 62
+    },
+    {
+      "Date": "Dec 25, 22",
+      "Pepperoni": 75,
+      "Branco": 30,
+      "AllDressed": 56
+    },
+    {
+      "Date": "Dec 26, 22",
+      "Pepperoni": 1,
+      "Branco": 99,
+      "AllDressed": 58
+    },
+    {
+      "Date": "Dec 27, 22",
+      "Pepperoni": 57,
+      "Branco": 18,
+      "AllDressed": 22
+    },
+    {
+      "Date": "Dec 28, 22",
+      "Pepperoni": 92,
+      "Branco": 95,
+      "AllDressed": 59
+    },
+    {
+      "Date": "Dec 29, 22",
+      "Pepperoni": 66,
+      "Branco": 98,
+      "AllDressed": 18
+    },
+    {
+      "Date": "Dec 30, 22",
+      "Pepperoni": 66,
+      "Branco": 74,
+      "AllDressed": 55
+    },
+    {
+      "Date": "Dec 31, 22",
+      "Pepperoni": 45,
+      "Branco": 74,
+      "AllDressed": 92
+    }
+  ]

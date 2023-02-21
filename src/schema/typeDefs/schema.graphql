@@ -1,0 +1,62 @@
+scalar Date
+ 
+type Query {
+    getPizzas(pizzasInput:PizzasInput): [Pizza]
+    getPizza(id: ID!): Pizza
+    getOrders(ordersInput: OrdersInput): [Order]
+    getRecipeForOnePizza(pizzaId: ID!): [Recipe]
+}
+
+input PizzasInput {
+  names: [PizzaName]
+  ids: [ID]
+  ingredientNames: [IngredientName]
+}
+
+  input OrdersInput {
+    orderIds: [ID]
+    pizzaIds: [ID]
+    startingDate: Date
+    endingDate: Date
+  }
+
+ type Pizza {
+    id:ID!
+    name: String!
+    price: Int!
+    recipes: [Recipe]
+  }
+
+type Order {
+  id:ID!
+  pizza:     Pizza   
+  quantity:    Int
+  date:      Date
+}
+
+type Recipe {
+  id:ID!
+  pizza:     Pizza   
+  ingredient:    Ingredient
+  quantity:    Int
+}
+
+type Ingredient {
+  id:ID!
+  name: String!
+  unit:     String! #TODO: change to enum   
+  price:    Float
+}
+
+enum PizzaName {
+  Pepperoni
+  Branco
+  AllDressed
+}
+enum IngredientName {
+  Pepperoni
+  Cheese
+  Vegetable
+  Dough
+  Sauce
+}

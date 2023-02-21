@@ -1,0 +1,39 @@
+{
+  "name": "graphql-apollo-tutorial",
+  "version": "1.0.0",
+  "prisma": {
+    "schema": "./src/prisma/schema.prisma",
+    "seed": "ts-node ./src/prisma/seed.ts"
+  },
+  "scripts": {
+    "build": "npm -s run clean && tsc && copyfiles -u 1 src/schema/typeDefs/*.graphql dist/ && copyfiles -u 1 src/prisma/*.prisma dist/",
+    "start": "node ./dist/index.js",
+    "watch": "ts-node-dev --respawn src/index.ts",
+    "clean": "rm -rf dist",
+    "prisma:generate": "prisma generate",
+    "db:seed": "prisma db seed",
+    "db:seed:prod": "node ./src/prisma/seed.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.4.0",
+    "@graphql-tools/load-files": "^6.6.1",
+    "@graphql-tools/merge": "^8.3.18",
+    "@prisma/client": "^4.10.1",
+    "apollo-server-express": "^3.11.1",
+    "copyfiles": "^2.4.1",
+    "express": "^4.18.2",
+    "graphql": "^16.6.0"
+  },
+  "devDependencies": {
+    "@tsconfig/node14": "^1.0.3",
+    "@types/node": "^18.13.0",
+    "prisma": "^4.10.1",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.5"
+  }
+}
